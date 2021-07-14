@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jini J Tracy
-- 👀 I’m interested in Web Desiging, Graphic Desiging and Machine Learning
-- 🌱 I’m currently learning Backend development and Machine Learning
+- 👀 I’m interested in Web Desiging, Graphic Desiging and UI/UX Desigining
+- 🌱 I’m currently learning Backend development and UI/UX Design
 - 💞️ I’m looking to collaborate on any Web Development Projects
 - 📫 Mail me: jinitracy03.tj@gmail.com
 
