@@ -1,5 +1,5 @@
 <h1 align="center">Umm Hi ✨, I am Jini Tracy</h1>
-<h3 align="center">A passionate web developer from the graduating batch of 2023.</h3>
+<h3 align="center">A passionate data scientist doing my masters in Data Science and Management from IIT Indore and IIM Indore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinitracy&label=Profile%20views&color=0e75b6&style=flat" alt="jinitracy" /> </p>
 
@@ -7,19 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/jinitracy" target="blank"><img src="https://img.shields.io/twitter/follow/jinitracy?logo=twitter&style=for-the-badge" alt="jinitracy" /></a> </p>
 
-- 🔭 I’m currently working on [MERN stack Project](https://aqueous-wave-26311.herokuapp.com/)
+- 🔭 I'm currently working on various projects related to Data Analysis
 
-- 🌱 I’m currently learning **Mongoose, Authentication and Redux.**
+- 🌱 I’m currently learning **Generative AI and it's Applications**
 
 - 👨‍💻 Know more about me at [https://www.linkedin.com/in/jini-t-302699183/](https://www.linkedin.com/in/jini-t-302699183/)
 
 - 📝 I regularly write articles on [https://jinitracy03-tj.medium.com/](https://jinitracy03-tj.medium.com/)
 
-- 💬 Ask me about **UI/UX designing.**
+- 💬 Ask me about **Data Science and Management**
 
 - 📫 How to reach me **jinitracy03.tj@gmail.com**
 
-- ⚡ Fun fact **I sleep all day and work all night**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
